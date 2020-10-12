@@ -1,0 +1,70 @@
+.forminput {
+  margin-bottom: 33px;
+  margin-top: 33px;
+  border-color: #f7e91c;
+  color: #f7e91c;
+  width: 90%;
+}
+.forminput_password {
+  margin-bottom: 33px;
+  margin-top: 33px;
+  border-color: #f7e91c;
+  color: #f7e91c;
+  width: 90%;
+  margin-top: 0px;
+}
+.input {
+  width: 100%;
+  color: #f7e91c;
+}
+.input:hover {
+  color: #f7e91c;
+}
+.input:focus {
+  color: #f7e91c;
+}
+.submit {
+  width: 90%;
+  color: black;
+  background-color: #f7e91c;
+}
+.inputlabel {
+  border-color: #5e5e5d;
+  color: #5e5e5d;
+  font-size: 12px;
+  font-family: "Roboto";
+}
+.form {
+  border-color: #f7e91c;
+  text-align: center;
+}
+.icon {
+  border-color: #e0e0e0;
+  color: #cbcccc;
+  width: 30px;
+}
+.visibilityicon {
+  border-color: #e0e0e0;
+  color: #7f7f7f;
+  width: 30px;
+}
+.passsword_vergessen {
+  font-weight: bold;
+  text-align: right;
+  color: #5e5e5d;
+  padding-top: 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.first_text_under_button {
+  text-align: center;
+  color: #5e5e5d;
+  padding-top: 20px;
+  font-size: 16px;
+}
+.second_text_under_button {
+  text-align: center;
+  color: #5e5e5d;
+  font-size: 16px;
+  font-weight: bold;
+}

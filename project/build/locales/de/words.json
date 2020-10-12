@@ -1,0 +1,21 @@
+{
+  "title": "Willkommen bei Internationalization in React",
+  "log_in": "Anmelden",
+  "save_License_Code": "Lizenzcode speichern",
+  "enter_license_code": "Geben Sie den Lizenzcode ein",
+  "renew_license_code": "Lizenzcode erneuern",
+  "welcome": "Herzlich willkommen",
+  "license_code": "Lizenzcode",
+  "password": "Passwort",
+  "email_address": "E-Mail Adresse",
+  "email": "E-Mail",
+  "forgot_password": "Passwort vergessen",
+  "sign_in": "Anmelden",
+  "register_now": "jetzt anmelden",
+  "no_account_yet": "Noch kein Account?",
+  "This_function_is_not_yet_available": "Diese Funktion steht leider noch nicht zur Verfügung.",
+  "save_report": "Bericht speichern",
+  "export_report_as_docx": "Als Docx exportieren",
+  "import_report_from_docx": "Docx importieren",
+  "current_lang": "Deutsch"
+}
